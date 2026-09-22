@@ -22,8 +22,8 @@ Bring-up and test log for an [Adafruit TLV320DAC3100](https://www.adafruit.com/p
 
 DAC RESET is active-low, pulsed at boot. Headphone output runs fine off 3.3V; the speaker (Class-D) output needs VIN at 5V.
 
-![Breadboard wiring, top-down](assets/Test_Setup.jpeg)
-![Breadboard wiring, angled](assets/Test_Setup_2.jpeg)
+![Breadboard wiring, top-down](Test_Setup.jpeg)
+![Breadboard wiring, angled](Test_Setup_2.jpeg)
 
 ## What it does
 
@@ -36,7 +36,7 @@ Earlier stages of this build (kept as a record of the process, not part of the f
 
 ## Demo
 
-[🎥 Watch the audio test](assets/Audio_Test.mp4)
+[🎥 Watch the audio test](Audio_Test.mp4)
 
 ## Software
 
